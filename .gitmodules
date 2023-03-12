@@ -1,0 +1,3 @@
+[submodule "jssyntax"]
+	path = jssyntax
+	url = https://github.com/testersbastarps/JSSyntax-tutorial.git
