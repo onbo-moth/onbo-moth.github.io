@@ -1,3 +1,6 @@
 [submodule "jssyntax"]
 	path = jssyntax
 	url = https://github.com/testersbastarps/JSSyntax-tutorial.git
+[submodule "simpleCalendar"]
+	path = simpleCalendar
+	url = https://github.com/testersbastarps/simpleCalendar
