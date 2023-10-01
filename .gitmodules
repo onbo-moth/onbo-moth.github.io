@@ -4,3 +4,6 @@
 [submodule "simpleCalendar"]
 	path = simpleCalendar
 	url = https://github.com/testersbastarps/simpleCalendar
+[submodule "crossword"]
+	path = crossword
+	url = https://github.com/onbo-moth/crossword
