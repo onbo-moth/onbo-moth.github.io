@@ -10,3 +10,6 @@
 [submodule "rubik-cube-simulator"]
 	path = rubik-cube-simulator
 	url = https://github.com/onbo-moth/rubik-cube-simulator
+[submodule "primitive-webaudio"]
+	path = primitive-webaudio
+	url = https://github.com/onbo-moth/primitive-webaudio
