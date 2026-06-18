@@ -13,3 +13,6 @@
 [submodule "primitive-webaudio"]
 	path = primitive-webaudio
 	url = https://github.com/onbo-moth/primitive-webaudio
+[submodule "3d-demo"]
+	path = 3d-demo
+	url = https://github.com/onbo-moth/webgl2-demo
